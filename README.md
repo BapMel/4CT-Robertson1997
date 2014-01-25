@@ -1,11 +1,23 @@
 # Robertson, Sanders, Seymour and Thomas' 1997 proof of the Four-Colour Theorem
 
-This is the source code of the 1997 proof of the Four-Colour Theorem,
-published by Neil Robertson, Daniel P. Sanders, Paul Seymour and Robin
-Thomas.
+This repository contains the [1997 proof of the Four Color Theorem v1.0
+Development
+History](https://github.com/BapMel/4CT-Robertson1997/tree/SourceCode/).
+The proof was published by Neil Robertson, Daniel P. Sanders, Paul
+Seymour and Robin Thomas.
 
-It was gathered by Baptiste Mélès (CNRS, Archives Henri-Poincaré,
-Software Heritage Ambassador), on 9th April 2024.
+The original finds are stored in the
+[Depository](https://github.com/BapMel/4CT-Robertson1997-Depository)
+containing the [raw
+materials](https://github.com/BapMel/4CT-Robertson1997-Depository/tree/master/raw_materials)
+and the [browsable
+source](https://github.com/BapMel/4CT-Robertson1997-Depository/tree/master/browsable_source).
+
+[Information on the acquisition of this
+code](https://github.com/BapMel/4CT-Robertson1997-Workbench/tree/master/metadata)
+can be found in the
+[4CT-Robertson1997-Workbench](https://github.com/BapMel/4CT-Robertson1997-Workbench)
+repository.
 
 
 ## References
