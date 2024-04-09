@@ -1,21 +1,21 @@
-# Supporting the preservation of legacy source code.
+# Robertson, Sanders, Seymour and Thomas' 1997 proof of the Four-Colour Theorem
 
-Instantiating this template creates a workbench to support the acquisition of legacy source code, according to [SWHAP](https://www.softwareheritage.org/swhap/), the [Software Heritage](https://www.softwareheritage.org/) Acquisition Process defined by the [SWHAP\@Pisa](
-    #TODO:
-) project.
+This is the source code of the 1997 proof of the Four-Colour Theorem,
+published by Neil Robertson, Daniel P. Sanders, Paul Seymour and Robin
+Thomas.
 
-The workbench comes with the predefined folders that are used in the supported process. Namely:
+It was gathered by Baptiste Mélès (CNRS, Archives Henri-Poincaré,
+Software Heritage Ambassador), on 9th April 2024.
 
-- Folder [raw materials](./raw_materials) is for the original materials, as they have been found or submitted.
 
-- Folder [browsable source](./browsable_source) is for a browsable version of the source code. Source files, with the right extension, have to be accessible through the GitHub web interface, e.g., archives should be decompressed, code should be transcribed if provided by images, etc.
+## References
 
-- Folder [source](./source) is for the curated revision of the source code, as a base for the reconstruction of the development history as a git repository.
+- Robertson Neil, Sanders Daniel P., Seymour Paul and Thomas Robin,
+  "Reducibility in the Four-Color Theorem",
+  doi:10.48550/arXiv.1401.6481.
 
-- Folder [metadata](/.metadata) holds various files with meta information (catalogue, actors, journal, tags) to be updated throughout the process. 
+- Robertson Neil, Sanders Daniel P., Seymour Paul and Thomas Robin,
+  "Discharging cartwheels", doi:10.48550/arXiv.1401.6485.
 
-- Folder [additional materials](./additional_materials) is for materials originated during the recovery process to document it or to shed new light on the recovered software project.
-
-Please note that this file need be **replaced** in the instantiated workbench.
-
-Please look at the [SWHAPPE repository](https://github.com/Unipisa/SWHAPPE/blob/master/README.md) and the [guidelines](https://github.com/SoftwareHeritage/swhapguide/blob/master/SWHAP%40Pisa.pdf)  for more details. 
+- Thomas Robin, "4CT information page", visited on 9th April 2024,
+  URL :  https://thomas.math.gatech.edu/FOUCAULT/ftpinfo.html.
