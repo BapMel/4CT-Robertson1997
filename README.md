@@ -12,10 +12,11 @@ Software Heritage Ambassador), on 9th April 2024.
 
 - Robertson Neil, Sanders Daniel P., Seymour Paul and Thomas Robin,
   "Reducibility in the Four-Color Theorem",
-  doi:10.48550/arXiv.1401.6481.
+  [doi:10.48550/arXiv.1401.6481](https://doi.org/10.48550/arXiv.1401.6481).
 
 - Robertson Neil, Sanders Daniel P., Seymour Paul and Thomas Robin,
-  "Discharging cartwheels", doi:10.48550/arXiv.1401.6485.
+  "Discharging cartwheels",
+  [doi:10.48550/arXiv.1401.6485](https://doi.org/10.48550/arXiv.1401.6485).
 
 - Thomas Robin, "4CT information page", visited on 9th April 2024,
   URL :  https://thomas.math.gatech.edu/FC/ftpinfo.html.
