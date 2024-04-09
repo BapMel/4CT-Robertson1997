@@ -18,4 +18,4 @@ Software Heritage Ambassador), on 9th April 2024.
   "Discharging cartwheels", doi:10.48550/arXiv.1401.6485.
 
 - Thomas Robin, "4CT information page", visited on 9th April 2024,
-  URL :  https://thomas.math.gatech.edu/FOUCAULT/ftpinfo.html.
+  URL :  https://thomas.math.gatech.edu/FC/ftpinfo.html.
